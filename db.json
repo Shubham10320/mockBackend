@@ -1,0 +1,39 @@
+{
+    "users": [
+      {
+        "name": "shubham chaubey",
+        "email": "chaubeysubh1032@gmail.com",
+        "password": "123",
+        "id": 1
+      },
+      {
+        "name": "roshan mishra",
+        "email": "roshanmishra@gmail.com",
+        "password": "123",
+        "id": 2
+      }
+    ],
+    "transactions": [
+      {
+        "type": "Income",
+        "category": "Gifts",
+        "amount": "800080",
+        "date": "2023-11-22",
+        "id": 1
+      },
+      {
+        "type": "Income",
+        "category": "Other",
+        "amount": "55555555555",
+        "date": "2023-09-28",
+        "id": 2
+      },
+      {
+        "type": "Expense",
+        "category": "Bills",
+        "amount": "555",
+        "date": "2023-09-14",
+        "id": 3
+      }
+    ]
+  }
